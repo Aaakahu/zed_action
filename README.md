@@ -130,3 +130,4 @@ Apache License 2.0
 - [Nriver/zed-translation](https://github.com/Nriver/zed-translation) - 另一个Zed 汉化仓库
 
 <p align="center">Made with ❤️ by reigadegr</p>
+
